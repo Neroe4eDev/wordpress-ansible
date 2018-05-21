@@ -2,7 +2,7 @@
 # [group] syntax. Hosts can join multiple groups.
 
 [production]
-server_hostname1
+35.227.83.108
 
 [staging]
-server_hostname2
+# server_hostname2
